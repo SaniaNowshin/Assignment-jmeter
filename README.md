@@ -20,9 +20,9 @@
 3.	Open Jmeter
 4.	Configure CSV Files (for Dmoney API): For the Dmoney API test, ensure the following CSV files (deposit.csv, withdraw.csv, sendMoney.csv, payment.csv)
 5.	Run the Load Test and the Stress Test (for booking API)
-   a. Select the booking.jmx or dmoney.jmx script in JMeter.
-   b. Click the green Start button at the top to begin running the load test.
-   c. Monitor the test progress in the View Results Tree and Summary Report listeners.
+   -a. Select the booking.jmx or dmoney.jmx script in JMeter.
+   -b. Click the green Start button at the top to begin running the load test.
+   -c. Monitor the test progress in the View Results Tree and Summary Report listeners.
 
 
 ## Documentation for the API(booking):
